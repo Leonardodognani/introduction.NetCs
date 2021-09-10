@@ -3,6 +3,7 @@
 
 * Introdução ao .NET e seu uso no VScode;
 * Foi usado uma estrutura de repetição simples com um "for" como exemplo;
-* Ambiente básico de aprendizagem do curso da DIO;
+* Ambiente básico de aprendizagem; 
+* Aula guiada do curso da DIO;
 
 ## :rocket: :rocket: :rocket:
